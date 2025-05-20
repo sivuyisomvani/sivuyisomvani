@@ -1,30 +1,38 @@
-# Hi there, I'm Sivuyiso Mvani 👋
+<h1 align="center">Hi, I'm Sivuyiso Mvani</h1>
 
-🎓 **Aspiring Data Scientist & Graduate Data Analyst**  
-Recently completed my BSc in Applied Statistics from the University of Cape Town (UCT).
+<p align="center">
+  🎓 BSc. Applied Statistics Graduate (UCT) • 📊 Aspiring Data Scientist • 🧠 Systems Thinker
+</p>
 
-🔬 **Interests:**  
-I'm passionate about the mathematical and computational modelling of complex systems to solve real-world problems. I love exploring the intersection of statistics, data, and technology to drive meaningful insights and solutions.
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+
+
+Welcome to my GitHub profile! I'm interested in using data, code, and mathematical modeling to understand and model systems, solve problems, and build tools. I enjoy working on projects at the intersection of statistics, data, and technology to drive meaningful insights and solutions — and I’m currently expanding my skillset to include full-stack development and intelligent systems.
+
+
 
 ---
 
 ## 🛠️ Key Skills & Tools
+  
+**Languages:**  
+Python, R, SQL, JavaScript (in progress), HTML/CSS
 
-- **Data Analysis**
-- **Statistical Modelling**
-- **Mathematical Modelling**
-- **Programming**
+**Data & Analytics:**  
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Power BI, Excel
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+**Mathematics & Modeling:**  
+Statistical Inference, Machine Learning, ODEs/PDEs, Optimization (OR), Time Series
+
+**Developer Tools:**  
+Git, GitHub, Jupyter, VS Code, Markdown, LaTeX
 
 ---
 
-## 🌱 Current Focus
+## 🎯 Current Focus
 
 - Deepening my expertise in data science, analytics, and modelling
 - Collaborating on projects that use data to address complex challenges
@@ -32,9 +40,13 @@ I'm passionate about the mathematical and computational modelling of complex sys
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivuyiso-mvani)
+<p align="center">
+  <a href="mailto:youremail@example.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="#">Portfolio</a>
+</p>
 
 ---
 
