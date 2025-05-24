@@ -44,8 +44,8 @@ Git, GitHub, Jupyter, VS Code, Markdown, LaTeX
 
 <p align="center">
   <a href="mailto:youremail@example.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://sivuyisomvani.github.io">Portfolio</a>
+  <a href="https://linkedin.com/in/yourprofile" target = "_blank" >LinkedIn</a> •
+  <a href="https://sivuyisomvani.github.io" target = "_blank" >Portfolio</a>
 </p>
 
 ---
