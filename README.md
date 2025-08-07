@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sivuyiso Mvani</h1>
 
 <p align="center">
-  🎓 BSc. Applied Statistics Graduate (UCT) • 📊 Aspiring Data Scientist • 🧠 Systems Thinker
+  🎓 BSc. Applied Statistics Graduate (UCT) • Credit Risk & Data Science Intern • Aspiring Data Scientist • 🧠 Systems Thinker
 </p>
 
 <p align="center">
